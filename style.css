@@ -36,7 +36,7 @@
 
     ul {
         position: relative;
-        left: 30%;
+        left: 27%;
         list-style-type: none;
         padding: 0;
         margin: 0;
@@ -165,7 +165,7 @@
     .firstpage_pic_1 {
         position: absolute;
         top: -26.5rem;
-        left: 70.0rem;
+        left: 64.0rem;
         z-index: 2;
         overflow: hidden;
     }
