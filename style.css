@@ -43,6 +43,11 @@
 
     }
 
+    .navbar_brand {
+        position: relative;
+        left: 8.0rem
+    }
+
 
     nav img {
         padding: 1.0rem;
@@ -104,7 +109,7 @@
 
         background-image: linear-gradient(to right, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
         border-radius: 15px;
-        padding: 1.0rem;
+        padding: 1.1rem;
         padding-left: 4.0rem;
         padding-right: 4.0rem;
         color: white;
@@ -169,7 +174,7 @@
     .firstpage_pic_2 {
         position: absolute;
         top: -11.0rem;
-        left: 89.5rem;
+        left: 85.5rem;
         z-index: 3;
         overflow: hidden;
         ;
@@ -328,7 +333,9 @@
 
     }
 
-    .social_media svg {}
+    .social_media svg {
+        margin-left: 1.0rem;
+    }
 
     .social_media svg path:hover {
 
@@ -369,7 +376,8 @@
 
     #easybank_last {
         color: hsl(233, 8%, 62%);
-        font-size: 12px;
+        font-size: 13px;
+        margin-top: 0rem;
     }
 
     .footer_button {
