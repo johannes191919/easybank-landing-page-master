@@ -259,6 +259,10 @@
     }
 
     .last_page h3:hover {
+        cursor: pointer;
+    }
+
+    .last_page h3:hover {
         color: hsl(136, 65%, 51%);
     }
 
