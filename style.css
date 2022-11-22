@@ -167,7 +167,7 @@
         top: -26.5rem;
         left: 64.0rem;
         z-index: 2;
-        overflow: hidden;
+
     }
 
 
@@ -176,8 +176,8 @@
         top: -11.0rem;
         left: 80.5rem;
         z-index: 3;
-        overflow: hidden;
-        ;
+
+        
     }
 
     .firstpage_pic_mobile {
@@ -554,7 +554,7 @@
         top: -26.5rem;
         left: 60.0rem;
         z-index: 2;
-        overflow: hidden;
+
     }
 
 
@@ -563,8 +563,7 @@
         top: -31.0rem;
         left: 65.5rem;
         z-index: 3;
-        overflow: hidden;
-        ;
+
     }
 
     .firstpage_pic_mobile {
@@ -990,7 +989,7 @@
         top: -26.5rem;
         left: 70.0rem;
         z-index: 2;
-        overflow: hidden;
+
         display: none;
     }
 
@@ -1004,8 +1003,7 @@
         margin-left: auto;
         margin-right: auto;
         z-index: 3;
-        overflow: hidden;
-        ;
+
 
     }
 
@@ -1456,7 +1454,7 @@
         top: -26.5rem;
         left: 70.0rem;
         z-index: 2;
-        overflow: hidden;
+
         display: none;
     }
 
@@ -1468,8 +1466,7 @@
         margin-left: auto;
         margin-right: auto;
         z-index: 3;
-        overflow: hidden;
-        ;
+
 
     }
 
