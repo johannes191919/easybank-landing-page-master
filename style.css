@@ -204,8 +204,9 @@
 
 
     .row h1 {
-        margin-top: 8.0rem;
-        font-size: 4.0rem;
+        margin-top: 8rem;
+    font-weight: 300;
+    font-size: 4.0rem;
 
     }
 
@@ -251,7 +252,8 @@
     }
 
     .last_page h1 {
-        margin-left: 20.0rem;
+        margin-left: 17.8rem;
+        font-weight: 300;
     }
 
     .last_page h2 {
@@ -278,12 +280,11 @@
 
 
     .last_page .col-lg-3 {
-        width: 25.0rem;
-        height: 36.0rem;
-        margin-left: 3.0rem;
-
+        width: 25rem;
+        height: 38rem;
+        margin-left: 3rem;
         background-color: white;
-        margin-top: 5.0rem;
+        margin-top: 5rem;
         padding: 0rem;
         border-radius: 10px;
         display: inline-block;
@@ -296,10 +297,10 @@
 
     .last_page .col-lg-3 img {
         width: 100%;
-        height: 13.33rem;
+        height: 16.33rem;
         border-radius: 4px;
         border-bottom-left-radius: 0px;
-        border-bottom-right-radius: 0px;
+        border-bottom-right-radius: 0px
 
 
 
